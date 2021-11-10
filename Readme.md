@@ -1,6 +1,4 @@
-# Usefull seo comands for web servers
-
-In this repo I am going to share some valuable information about different web servers and how we have to use them in a seo way
+# Useful seo comands for web servers
 
 ## Apache
 
